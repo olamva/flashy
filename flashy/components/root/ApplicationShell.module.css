@@ -1,0 +1,10 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: light-dark(var(--mantine-color-white), var(--mantine-color-dark-6));
+    align-items: center;
+    /* padding: 6rem; */
+    min-height: 100vh;
+    min-width: 100vw;
+}
